@@ -6,5 +6,6 @@ public class Conflict
         int g = 7;
         String name1 = "yx";
         String name2 = "xy";
+        String anem3 = "bruh";
     }
 }
